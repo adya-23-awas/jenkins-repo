@@ -1,4 +1,4 @@
-class file
+cclass file
   {
     public static void main(String args[])
     {
